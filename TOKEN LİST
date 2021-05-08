@@ -1,7 +1,7 @@
 {
 "symbol": "TEX",
 "name": "Texcoin",
-"type": "ERC20",
+"type": "TRC20",
 "address": "TQen9RiS2bNzhMtGZvbK7pPNRG3VGYRKQ5",
 "ens_address": "",
 "decimals": 4,
